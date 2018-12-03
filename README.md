@@ -3,7 +3,9 @@ This repo accompanies the paper "Nonlinear transport coefficients from large dev
 Prerequisites: Cloning algorithm codes in this repo call the gsl library.
 
 Description:
+
 1. 
-2. 
-3. FPUT.cpp: cloning algorithm for FPUT model
-4. 
+ 
+2. FPUT.cpp: cloning algorithm for FPUT model
+
+3. tracer.cpp: cloning algorithm for tracer model
